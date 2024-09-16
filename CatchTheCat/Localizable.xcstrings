@@ -1,0 +1,324 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "    This captivating game is inspired by two adorable cats — Riki and Martin, who have not only become the main characters of the game but also its primary testers. The player’s task is to catch kittens, earn points, and progress through levels while avoiding obstacles.\n    \n    The goal of the game is to catch as many kittens as possible, earning points and moving to new levels. For each caught kitten, you gain +1 point, and for each missed one, you lose -1 point. But that’s not all: bonus kittens and bombs appear in the game, which can significantly affect your score:\n    \n    1. Game Rules:\n    • A caught kitten gives +1 point.\n    • A missed kitten deducts -1 point.\n    • Bonus kittens increase your score by 50%.\n    • Bombs reduce your score by 50%.\n    • The game continues until all points are lost or enough kittens are caught to move to the next level.\n    • To advance to the next level, you need to catch 100 kittens for the first level, 150 for the second, and so on.\n    \n    2. Objective of the Game:\n    Catch as many kittens as possible, avoid bombs and bonuses to increase your score and progress through levels. Each new level becomes more challenging, as the speed of the kittens increases, but the reward grows as well.\n    \n    3. Levels and Difficulty:\n    • As you progress to the next level, you’ll need to catch more and more kittens.\n    • The difficulty increases with the speed of the kittens and the addition of new elements on the screen.\n    \n    4. Inspiration and Design:\n    The game was created in honor of the developer’s real cats — Riki and Martin, who inspired this project. They are also the main testers of the game, helping to perfect every detail. The game features a simple and cute design, where kittens appear on the screen, and the player must catch them to earn points and advance to new levels.\n    \n    Game Development:\n    The game was developed using SpriteKit, allowing for dynamic scenes and animations. The main mechanics are based on the movement of the kittens and interaction with them through screen taps. The simple interface and engaging gameplay make the game suitable for all ages." : {
+      "comment" : "Description of the game and its features",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Эта увлекательная игра вдохновлена двумя очаровательными котами — Рики и Мартином, которые стали не только главными героями игры, но и её основными тестировщиками. Задача игрока — ловить котиков, зарабатывать очки и проходить уровни, избегая препятствий.\n\nЦель игры — поймать как можно больше котиков, зарабатывая очки и переходя на новые уровни. За каждого пойманного котика даётся +1 очко, за каждого пропущенного — -1 очко. Но это не всё: в игре появляются бонусные котики и бомбы, которые могут значительно повлиять на ваш счёт.\n\n1. Правила игры:\n   • Пойманный котик даёт +1 очко.\n   • Пропущенный котик отнимает -1 очко.\n   • Бонусные котики увеличивают счёт на 50%.\n   • Бомбы уменьшают счёт на 50%.\n   • Игра продолжается до тех пор, пока все очки не будут потеряны, или пока не будет поймано достаточно котиков для перехода на следующий уровень.\n   • Для перехода на следующий уровень нужно поймать 100 котиков для первого уровня, 150 для второго и так далее.\n\n2. Цель игры:\n   Поймайте как можно больше котиков, избегайте бомб и ловите бонусы, чтобы увеличить счёт и пройти на следующие уровни. Каждый новый уровень становится сложнее, так как скорость котиков увеличивается, но и вознаграждение растёт.\n\n3. Уровни и сложность:\n   • По мере прохождения на следующий уровень нужно ловить всё больше котиков.\n   • Сложность увеличивается с ростом скорости котиков и добавлением новых элементов на экране.\n\n4. Вдохновение и дизайн:\n   Игра создана в честь реальных котов разработчика — Рики и Мартина, которые вдохновили этот проект. Они также являются главными тестировщиками игры, помогая совершенствовать каждую деталь. В игре представлен простой и милый дизайн: котики появляются на экране, и игрок должен ловить их, чтобы зарабатывать очки и продвигаться на новые уровни.\n\nРазработка игры:\nИгра была создана с использованием SpriteKit, что позволяет создавать динамичные сцены и анимации. Основные механики основаны на движении котиков и взаимодействии с ними через касания экрана. Простой интерфейс и захватывающий геймплей делают игру подходящей для игроков всех возрастов."
+          }
+        }
+      }
+    },
+    "    Twitter: @almirkhialov\n    Instagram: @almir328\n    Telegram: @almir328" : {
+      "comment" : "Social media handles",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "    Twitter: @almirkhialov\n    Instagram: @almir328\n    Telegram: @almir328"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "    Twitter: @almirkhialov\n    Instagram: @almir328\n    Telegram: @almir328"
+          }
+        }
+      }
+    },
+    "About the App" : {
+      "comment" : "Title for the About section",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About the App"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "О приложении"
+          }
+        }
+      }
+    },
+    "Back" : {
+      "comment" : "Back button title",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назад"
+          }
+        }
+      }
+    },
+    "Back Button" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back Button"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кнопка назад"
+          }
+        }
+      }
+    },
+    "Developer: Almir Khialov" : {
+      "comment" : "Developer's name",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Developer: Almir Khialov"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разработчик: Алмир Хиалов"
+          }
+        }
+      }
+    },
+    "Game Over" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Game Over"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Игра окончена"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Домой"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Язык"
+          }
+        }
+      }
+    },
+    "Music Switch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Music Switch"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Переключатель музыки"
+          }
+        }
+      }
+    },
+    "New Record: %d kittens!" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Record: %d kittens!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Новый рекорд: %d котиков!"
+          }
+        }
+      }
+    },
+    "Reset High Score" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset High Score"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сброс рекорда"
+          }
+        }
+      }
+    },
+    "Restart Game" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restart Game"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перезапуск игры"
+          }
+        }
+      }
+    },
+    "Score" : {
+      "comment" : "Comment",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Score"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Счёт"
+          }
+        }
+      }
+    },
+    "Score: %d" : {
+      "comment" : "Score label",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Score: %d"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Очки: %d"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки "
+          }
+        }
+      }
+    },
+    "Sound Switch" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sound Switch"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Переключатель звука"
+          }
+        }
+      }
+    },
+    "Start Game" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Game"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Начать игру"
+          }
+        }
+      }
+    },
+    "This captivating game is inspired by two adorable cats — Riki and Martin, who have not only become the main characters of the game but also its primary testers. The player’s task is to catch kittens, earn points, and progress through levels while avoiding obstacles.\\n\\nThe goal of the game is to catch as many kittens as possible, earning points and moving to new levels. For each caught kitten, you gain +1 point, and for each missed one, you lose -1 point. But that’s not all: bonus kittens and bombs appear in the game, which can significantly affect your score:\\n\\n1. Game Rules:\\n• A caught kitten gives +1 point.\\n• A missed kitten deducts -1 point.\\n• Bonus kittens increase your score by 50%.\\n• Bombs reduce your score by 50%.\\n• The game continues until all points are lost or enough kittens are caught to move to the next level.\\n• To advance to the next level, you need to catch 100 kittens for the first level, 150 for the second, and so on.\\n\\n2. Objective of the Game:\\nCatch as many kittens as possible, avoid bombs and bonuses to increase your score and progress through levels. Each new level becomes more challenging, as the speed of the kittens increases, but the reward grows as well.\\n\\n3. Levels and Difficulty:\\n• As you progress to the next level, you’ll need to catch more and more kittens.\\n• The difficulty increases with the speed of the kittens and the addition of new elements on the screen.\\n\\n4. Inspiration and Design:\\nThe game was created in honor of the developer’s real cats — Riki and Martin, who inspired this project. They are also the main testers of the game, helping to perfect every detail. The game features a simple and cute design, where kittens appear on the screen, and the player must catch them to earn points and advance to new levels.\\n\\nGame Development:\\nThe game was developed using SpriteKit, allowing for dynamic scenes and animations. The main mechanics are based on the movement of the kittens and interaction with them through screen taps. The simple interface and engaging gameplay make the game suitable for all ages.\" = \"This captivating game is inspired by two adorable cats — Riki and Martin, who have not only become the main characters of the game but also its primary testers. The player’s task is to catch kittens, earn points, and progress through levels while avoiding obstacles.\\n\\nThe goal of the game is to catch as many kittens as possible, earning points and moving to new levels. For each caught kitten, you gain +1 point, and for each missed one, you lose -1 point. But that’s not all: bonus kittens and bombs appear in the game, which can significantly affect your score:\\n\\n1. Game Rules:\\n• A caught kitten gives +1 point.\\n• A missed kitten deducts -1 point.\\n• Bonus kittens increase your score by 50%.\\n• Bombs reduce your score by 50%.\\n• The game continues until all points are lost or enough kittens are caught to move to the next level.\\n• To advance to the next level, you need to catch 100 kittens for the first level, 150 for the second, and so on.\\n\\n2. Objective of the Game:\\nCatch as many kittens as possible, avoid bombs and bonuses to increase your score and progress through levels. Each new level becomes more challenging, as the speed of the kittens increases, but the reward grows as well.\\n\\n3. Levels and Difficulty:\\n• As you progress to the next level, you’ll need to catch more and more kittens.\\n• The difficulty increases with the speed of the kittens and the addition of new elements on the screen.\\n\\n4. Inspiration and Design:\\nThe game was created in honor of the developer’s real cats — Riki and Martin, who inspired this project. They are also the main testers of the game, helping to perfect every detail. The game features a simple and cute design, where kittens appear on the screen, and the player must catch them to earn points and advance to new levels.\\n\\nGame Development:\\nThe game was developed using SpriteKit, allowing for dynamic scenes and animations. The main mechanics are based on the movement of the kittens and interaction with them through screen taps. The simple interface and engaging gameplay make the game suitable for all ages." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "    This captivating game is inspired by two adorable cats — Riki and Martin, who have not only become the main characters of the game but also its primary testers. The player’s task is to catch kittens, earn points, and progress through levels while avoiding obstacles.\n    \n    The goal of the game is to catch as many kittens as possible, earning points and moving to new levels. For each caught kitten, you gain +1 point, and for each missed one, you lose -1 point. But that’s not all: bonus kittens and bombs appear in the game, which can significantly affect your score:\n    \n    1. Game Rules:\n    • A caught kitten gives +1 point.\n    • A missed kitten deducts -1 point.\n    • Bonus kittens increase your score by 50%.\n    • Bombs reduce your score by 50%.\n    • The game continues until all points are lost or enough kittens are caught to move to the next level.\n    • To advance to the next level, you need to catch 100 kittens for the first level, 150 for the second, and so on.\n    \n    2. Objective of the Game:\n    Catch as many kittens as possible, avoid bombs and bonuses to increase your score and progress through levels. Each new level becomes more challenging, as the speed of the kittens increases, but the reward grows as well.\n    \n    3. Levels and Difficulty:\n    • As you progress to the next level, you’ll need to catch more and more kittens.\n    • The difficulty increases with the speed of the kittens and the addition of new elements on the screen.\n    \n    4. Inspiration and Design:\n    The game was created in honor of the developer’s real cats — Riki and Martin, who inspired this project. They are also the main testers of the game, helping to perfect every detail. The game features a simple and cute design, where kittens appear on the screen, and the player must catch them to earn points and advance to new levels.\n    \n    Game Development:\n    The game was developed using SpriteKit, allowing for dynamic scenes and animations. The main mechanics are based on the movement of the kittens and interaction with them through screen taps. The simple interface and engaging gameplay make the game suitable for all ages."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Эта увлекательная игра вдохновлена двумя очаровательными котами — Рики и Мартином, которые стали не только главными героями игры, но и её основными тестировщиками. Задача игрока — ловить котиков, зарабатывать очки и проходить уровни, избегая препятствий.\n\nЦель игры — поймать как можно больше котиков, зарабатывая очки и переходя на новые уровни. За каждого пойманного котика даётся +1 очко, за каждого пропущенного — -1 очко. Но это не всё: в игре появляются бонусные котики и бомбы, которые могут значительно повлиять на ваш счёт.\n\n1. Правила игры:\n   • Пойманный котик даёт +1 очко.\n   • Пропущенный котик отнимает -1 очко.\n   • Бонусные котики увеличивают счёт на 50%.\n   • Бомбы уменьшают счёт на 50%.\n   • Игра продолжается до тех пор, пока все очки не будут потеряны, или пока не будет поймано достаточно котиков для перехода на следующий уровень.\n   • Для перехода на следующий уровень нужно поймать 100 котиков для первого уровня, 150 для второго и так далее.\n\n2. Цель игры:\n   Поймайте как можно больше котиков, избегайте бомб и ловите бонусы, чтобы увеличить счёт и пройти на следующие уровни. Каждый новый уровень становится сложнее, так как скорость котиков увеличивается, но и вознаграждение растёт.\n\n3. Уровни и сложность:\n   • По мере прохождения на следующий уровень нужно ловить всё больше котиков.\n   • Сложность увеличивается с ростом скорости котиков и добавлением новых элементов на экране.\n\n4. Вдохновение и дизайн:\n   Игра создана в честь реальных котов разработчика — Рики и Мартина, которые вдохновили этот проект. Они также являются главными тестировщиками игры, помогая совершенствовать каждую деталь. В игре представлен простой и милый дизайн: котики появляются на экране, и игрок должен ловить их, чтобы зарабатывать очки и продвигаться на новые уровни.\n\nРазработка игры:\nИгра была создана с использованием SpriteKit, что позволяет создавать динамичные сцены и анимации. Основные механики основаны на движении котиков и взаимодействии с ними через касания экрана. Простой интерфейс и захватывающий геймплей делают игру подходящей для игроков всех возрастов."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

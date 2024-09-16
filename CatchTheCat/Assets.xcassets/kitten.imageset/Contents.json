@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "D5159890-57BB-49C1-835D-1A73D8520786_11zon-5-2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
